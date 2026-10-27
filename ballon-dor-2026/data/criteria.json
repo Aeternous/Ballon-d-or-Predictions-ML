@@ -1,0 +1,707 @@
+{
+  "_doc": "Scores for the three official ballot criteria. P = Individual Performance, Decisiveness & Impressive Character (0-100, judged from the stats in P_note; 100 = an all-time-great season). T = Team Success, computed from the trophy ledger as sum(trophy value x how essential the player was), capped at 100. F = Class & Fair Play (0-100, 100 = spotless). Award window = August to July.",
+  "essential_rule": "1.0 = the team's standout in that competition (top scorer, player of the tournament/season, decisive in the final); 0.85 = key starter but not the standout; 0.7 = contributor with limited impact. Availability (games missed through injury) can trim it slightly.",
+  "trophy_values": {
+    "wc_win": 45,
+    "wc_final": 18,
+    "wc_third": 10,
+    "wc_fourth": 7,
+    "continental_win": 32,
+    "continental_final": 12,
+    "continental_sf": 7,
+    "continental_qf": 2,
+    "ucl_win": 38,
+    "ucl_final": 14,
+    "ucl_sf": 9,
+    "ucl_qf": 4,
+    "league_win": 22,
+    "domestic_cup_win": 8,
+    "nations_league_win": 8,
+    "nations_league_final": 3,
+    "nations_league_sf": 2,
+    "club_world_cup_win": 8,
+    "club_world_cup_final": 4,
+    "uefa_super_cup_win": 4,
+    "super_cup_win": 3,
+    "intercontinental_cup_win": 5,
+    "mls_cup_win": 10,
+    "league_cup_win": 5,
+    "wc_qf": 5,
+    "wc_r16": 2,
+    "ucl_r16": 2,
+    "ucl_playoff": 1
+  },
+  "years": {
+    "2024": {
+      "Rodri": {
+        "P": 87,
+        "P_note": "Midfield engine of City's long unbeaten run; Euro 2024 Player of the Tournament; huge tactical influence, modest goal output for a winner",
+        "F": 92,
+        "F_note": "No notable disciplinary issues",
+        "ledger": [
+          [
+            "Premier League",
+            "league_win",
+            0.9
+          ],
+          [
+            "Euro 2024",
+            "continental_win",
+            1.0
+          ],
+          [
+            "UEFA Super Cup",
+            "uefa_super_cup_win",
+            0.85
+          ],
+          [
+            "Club World Cup 2023",
+            "club_world_cup_win",
+            1.0
+          ],
+          [
+            "UCL quarter-final",
+            "ucl_qf",
+            0.85
+          ]
+        ]
+      },
+      "Vinícius Júnior": {
+        "P": 92,
+        "P_note": "24 goals, 11 assists; scored in the UCL final; UCL Player of the Season",
+        "F": 72,
+        "F_note": "Several dissent bookings and on-pitch flashpoints across the season",
+        "ledger": [
+          [
+            "Champions League",
+            "ucl_win",
+            1.0
+          ],
+          [
+            "LaLiga",
+            "league_win",
+            0.85
+          ],
+          [
+            "Supercopa (hat-trick in final)",
+            "super_cup_win",
+            1.0
+          ],
+          [
+            "Copa América quarter-final",
+            "continental_qf",
+            0.7
+          ]
+        ]
+      },
+      "Jude Bellingham": {
+        "P": 87,
+        "P_note": "23 goals, 13 assists in debut Madrid season; strong autumn, faded in spring; Euro bicycle-kick rescue vs Slovakia",
+        "F": 78,
+        "F_note": "Red card after the final whistle at Valencia (March 2024), two-match ban",
+        "ledger": [
+          [
+            "Champions League",
+            "ucl_win",
+            0.85
+          ],
+          [
+            "LaLiga (Madrid's top league scorer)",
+            "league_win",
+            1.0
+          ],
+          [
+            "Supercopa",
+            "super_cup_win",
+            0.85
+          ],
+          [
+            "Euro 2024 runner-up",
+            "continental_final",
+            0.85
+          ]
+        ]
+      }
+    },
+    "2025": {
+      "Ousmane Dembélé": {
+        "P": 94,
+        "P_note": "About 35 goals and 16 assists; decisive in PSG's Champions League knockout run",
+        "F": 90,
+        "F_note": "No notable disciplinary issues",
+        "ledger": [
+          [
+            "Champions League",
+            "ucl_win",
+            1.0
+          ],
+          [
+            "Ligue 1",
+            "league_win",
+            1.0
+          ],
+          [
+            "Coupe de France",
+            "domestic_cup_win",
+            0.85
+          ],
+          [
+            "Trophée des Champions (scored winner)",
+            "super_cup_win",
+            1.0
+          ],
+          [
+            "Club World Cup runner-up",
+            "club_world_cup_final",
+            0.85
+          ],
+          [
+            "Nations League semi-final",
+            "nations_league_sf",
+            0.7
+          ]
+        ]
+      },
+      "Lamine Yamal": {
+        "P": 93,
+        "P_note": "About 18 goals and 25 assists at 17; standout in Barcelona's UCL semi-final run",
+        "F": 90,
+        "F_note": "No notable disciplinary issues",
+        "ledger": [
+          [
+            "LaLiga",
+            "league_win",
+            1.0
+          ],
+          [
+            "Copa del Rey",
+            "domestic_cup_win",
+            0.85
+          ],
+          [
+            "Supercopa",
+            "super_cup_win",
+            0.85
+          ],
+          [
+            "UCL semi-final",
+            "ucl_sf",
+            1.0
+          ],
+          [
+            "Nations League runner-up",
+            "nations_league_final",
+            0.85
+          ]
+        ]
+      },
+      "Vitinha": {
+        "P": 78,
+        "P_note": "Elite control midfielder for PSG and Portugal; low goal/assist output",
+        "F": 92,
+        "F_note": "No notable disciplinary issues",
+        "ledger": [
+          [
+            "Champions League",
+            "ucl_win",
+            0.85
+          ],
+          [
+            "Ligue 1",
+            "league_win",
+            0.85
+          ],
+          [
+            "Coupe de France",
+            "domestic_cup_win",
+            0.85
+          ],
+          [
+            "Trophée des Champions",
+            "super_cup_win",
+            0.85
+          ],
+          [
+            "Nations League",
+            "nations_league_win",
+            0.85
+          ],
+          [
+            "Club World Cup runner-up",
+            "club_world_cup_final",
+            0.85
+          ]
+        ]
+      }
+    },
+    "2026": {
+      "Harry Kane": {
+        "P": 96,
+        "P_note": "61 goals in 51 Bayern games (36 Bundesliga, 14 UCL, 10 DFB-Pokal) and 73 in 65 including England; European Golden Shoe; Bundesliga top scorer for a 3rd straight season; DFB-Pokal final hat-trick; 6 goals and 1 assist at the World Cup",
+        "F": 94,
+        "F_note": "England captain; no red cards found in the window",
+        "ledger": [
+          [
+            "Bundesliga",
+            "league_win",
+            1.0
+          ],
+          [
+            "DFB-Pokal (hat-trick in final)",
+            "domestic_cup_win",
+            1.0
+          ],
+          [
+            "DFL-Supercup",
+            "super_cup_win",
+            1.0
+          ],
+          [
+            "UCL semi-final (lost to PSG)",
+            "ucl_sf",
+            1.0
+          ],
+          [
+            "World Cup 3rd place (benched for the play-off)",
+            "wc_third",
+            0.9
+          ]
+        ]
+      },
+      "Lamine Yamal": {
+        "P": 86,
+        "P_note": "24 goals; LaLiga 16 goals + 11 assists (league's top assister, LaLiga Player of the Season); hamstring injury cost the final 6 club games; World Cup: 8 games, 1 goal, 0 assists, most dribbles completed",
+        "F": 92,
+        "F_note": "No red cards in the window",
+        "ledger": [
+          [
+            "World Cup winner",
+            "wc_win",
+            0.85
+          ],
+          [
+            "LaLiga (Player of the Season, missed final 6 games)",
+            "league_win",
+            0.95
+          ],
+          [
+            "Supercopa",
+            "super_cup_win",
+            1.0
+          ],
+          [
+            "UCL quarter-final",
+            "ucl_qf",
+            1.0
+          ]
+        ]
+      },
+      "Kylian Mbappé": {
+        "P": 92,
+        "P_note": "42 goals in 44 Real Madrid games; Pichichi (25) and UCL top scorer (15); World Cup Golden Boot (10 goals, 4 assists) and Bronze Ball. About 52 goals in the window, but knee problems and no knockout-stage wins when it mattered",
+        "F": 92,
+        "F_note": "No red cards found in the window",
+        "ledger": [
+          [
+            "UCL quarter-final (lost to Bayern)",
+            "ucl_qf",
+            1.0
+          ],
+          [
+            "World Cup 4th place (Golden Boot)",
+            "wc_fourth",
+            1.0
+          ]
+        ]
+      },
+      "Lionel Messi": {
+        "P": 90,
+        "P_note": "World Cup: 8 goals, 4 assists, Silver Ball and Silver Boot at 39, Argentina to the final; MLS Cup MVP with a record 15 playoff goal contributions; about 32 goals and 25 assists for Inter Miami in the window (MLS level, not a top-5 league)",
+        "F": 92,
+        "F_note": "No notable disciplinary issues identified",
+        "ledger": [
+          [
+            "MLS Cup (MVP of the final)",
+            "mls_cup_win",
+            1.0
+          ],
+          [
+            "World Cup runner-up (Silver Ball)",
+            "wc_final",
+            1.0
+          ]
+        ]
+      },
+      "Khvicha Kvaratskhelia": {
+        "P": 86,
+        "P_note": "UCL Player of the Season: 10 goals, 6 assists, scored or assisted in 7 straight knockout games (a record); 19 goals and 11 assists in all competitions; Georgia did not qualify for the World Cup",
+        "F": 92,
+        "F_note": "No notable disciplinary issues identified",
+        "ledger": [
+          [
+            "Champions League (Player of the Season)",
+            "ucl_win",
+            1.0
+          ],
+          [
+            "Ligue 1",
+            "league_win",
+            0.85
+          ],
+          [
+            "UEFA Super Cup",
+            "uefa_super_cup_win",
+            0.85
+          ],
+          [
+            "Intercontinental Cup",
+            "intercontinental_cup_win",
+            0.85
+          ],
+          [
+            "Trophée des Champions",
+            "super_cup_win",
+            0.85
+          ]
+        ]
+      },
+      "Rodri": {
+        "P": 84,
+        "P_note": "World Cup Golden Ball as Spain's captain (six clean-sheet wins, including the final); modest club season back from injury (about 33 games, a handful of goals and assists)",
+        "F": 92,
+        "F_note": "No notable disciplinary issues identified",
+        "ledger": [
+          [
+            "World Cup winner (Golden Ball)",
+            "wc_win",
+            1.0
+          ],
+          [
+            "FA Cup",
+            "domestic_cup_win",
+            0.7
+          ],
+          [
+            "League Cup",
+            "league_cup_win",
+            0.7
+          ],
+          [
+            "UCL last 16",
+            "ucl_r16",
+            0.7
+          ]
+        ]
+      },
+      "Bruno Fernandes": {
+        "P": 84,
+        "P_note": "Premier League Player of the Season; 21 league assists (a Premier League record) plus 8 goals for a Manchester United side without a trophy",
+        "F": 92,
+        "F_note": "No notable disciplinary issues identified",
+        "ledger": [
+          [
+            "World Cup last 16",
+            "wc_r16",
+            1.0
+          ]
+        ]
+      },
+      "Declan Rice": {
+        "P": 78,
+        "P_note": "Midfield engine of Arsenal's first league title in 22 years (4 goals, 5 assists in the league); captained England to 3rd and scored after 2 minutes in the bronze match",
+        "F": 92,
+        "F_note": "No notable disciplinary issues identified",
+        "ledger": [
+          [
+            "Premier League",
+            "league_win",
+            0.9
+          ],
+          [
+            "UCL runner-up",
+            "ucl_final",
+            0.85
+          ],
+          [
+            "World Cup 3rd place",
+            "wc_third",
+            0.85
+          ]
+        ]
+      },
+      "Erling Haaland": {
+        "P": 89,
+        "P_note": "38 goals and 8 assists in 52 City games, Premier League Golden Boot (27); 7 World Cup goals in his first 4 games including both goals that knocked out Brazil",
+        "F": 92,
+        "F_note": "No notable disciplinary issues identified",
+        "ledger": [
+          [
+            "FA Cup",
+            "domestic_cup_win",
+            0.85
+          ],
+          [
+            "League Cup",
+            "league_cup_win",
+            0.85
+          ],
+          [
+            "UCL last 16",
+            "ucl_r16",
+            1.0
+          ],
+          [
+            "World Cup quarter-final",
+            "wc_qf",
+            1.0
+          ]
+        ]
+      },
+      "Jude Bellingham": {
+        "P": 82,
+        "P_note": "Weak club season (8 goals, 5 assists in 40 games) but 7 World Cup goals, the most by an England player at any major tournament",
+        "F": 92,
+        "F_note": "No notable disciplinary issues identified",
+        "ledger": [
+          [
+            "UCL quarter-final",
+            "ucl_qf",
+            0.85
+          ],
+          [
+            "World Cup 3rd place (England's top scorer)",
+            "wc_third",
+            1.0
+          ]
+        ]
+      },
+      "Lautaro Martínez": {
+        "P": 82,
+        "P_note": "Serie A top scorer (17) and Inter's striker of the season; 3 goals and 1 assist at the World Cup, including the stoppage-time semi-final winner against England; did not play in the final",
+        "F": 92,
+        "F_note": "No notable disciplinary issues identified",
+        "ledger": [
+          [
+            "Serie A (top scorer)",
+            "league_win",
+            1.0
+          ],
+          [
+            "Coppa Italia",
+            "domestic_cup_win",
+            0.85
+          ],
+          [
+            "UCL knockout play-off",
+            "ucl_playoff",
+            1.0
+          ],
+          [
+            "World Cup runner-up",
+            "wc_final",
+            0.75
+          ]
+        ]
+      },
+      "Luis Díaz": {
+        "P": 85,
+        "P_note": "24 goals and 17 assists in his first Bayern season (15 goals + 13 assists in the Bundesliga); Colombia out on penalties in the last 16",
+        "F": 92,
+        "F_note": "No notable disciplinary issues identified",
+        "ledger": [
+          [
+            "Bundesliga",
+            "league_win",
+            0.85
+          ],
+          [
+            "DFB-Pokal",
+            "domestic_cup_win",
+            0.85
+          ],
+          [
+            "DFL-Supercup",
+            "super_cup_win",
+            0.85
+          ],
+          [
+            "UCL semi-final",
+            "ucl_sf",
+            0.85
+          ],
+          [
+            "World Cup last 16",
+            "wc_r16",
+            1.0
+          ]
+        ]
+      },
+      "Michael Olise": {
+        "P": 86,
+        "P_note": "Bundesliga Player of the Season and assist leader (15 goals, 19 assists); more than 20 goals and 25 assists in all competitions, Europe's top provider",
+        "F": 92,
+        "F_note": "No notable disciplinary issues identified",
+        "ledger": [
+          [
+            "Bundesliga (Player of the Season)",
+            "league_win",
+            1.0
+          ],
+          [
+            "DFB-Pokal",
+            "domestic_cup_win",
+            0.85
+          ],
+          [
+            "DFL-Supercup",
+            "super_cup_win",
+            0.85
+          ],
+          [
+            "UCL semi-final",
+            "ucl_sf",
+            0.85
+          ],
+          [
+            "World Cup 4th place (individual output not verified)",
+            "wc_fourth",
+            0.7
+          ]
+        ]
+      },
+      "Nuno Mendes": {
+        "P": 76,
+        "P_note": "Elite left-back: 4 goals and 5 assists in 20 Ligue 1 games, 2 goals and 2 assists in the Champions League; scored in the Intercontinental Cup shootout",
+        "F": 92,
+        "F_note": "No notable disciplinary issues identified",
+        "ledger": [
+          [
+            "Champions League",
+            "ucl_win",
+            0.85
+          ],
+          [
+            "Ligue 1",
+            "league_win",
+            0.85
+          ],
+          [
+            "UEFA Super Cup",
+            "uefa_super_cup_win",
+            0.85
+          ],
+          [
+            "Intercontinental Cup",
+            "intercontinental_cup_win",
+            0.85
+          ],
+          [
+            "Trophée des Champions",
+            "super_cup_win",
+            0.85
+          ],
+          [
+            "World Cup last 16",
+            "wc_r16",
+            0.85
+          ]
+        ]
+      },
+      "Ousmane Dembélé": {
+        "P": 87,
+        "P_note": "26 goals and 14 assists in 50 PSG games (8 goals in the UCL) after an injury-hit start; 6 goals and 2 assists at the World Cup, including a first-half hat-trick against Norway",
+        "F": 92,
+        "F_note": "No notable disciplinary issues identified",
+        "ledger": [
+          [
+            "Champions League",
+            "ucl_win",
+            0.85
+          ],
+          [
+            "Ligue 1",
+            "league_win",
+            0.85
+          ],
+          [
+            "UEFA Super Cup",
+            "uefa_super_cup_win",
+            0.85
+          ],
+          [
+            "Intercontinental Cup",
+            "intercontinental_cup_win",
+            0.85
+          ],
+          [
+            "Trophée des Champions",
+            "super_cup_win",
+            0.85
+          ],
+          [
+            "World Cup 4th place",
+            "wc_fourth",
+            1.0
+          ]
+        ]
+      },
+      "Vinícius Júnior": {
+        "P": 83,
+        "P_note": "22 goals and 10 assists in 53 Madrid games; scored in all three World Cup group games (4 goals, 1 assist) before Brazil fell to Norway in the last 16",
+        "F": 86,
+        "F_note": "Public outburst after being substituted in the October 2025 Clásico (later apologised)",
+        "ledger": [
+          [
+            "UCL quarter-final",
+            "ucl_qf",
+            0.85
+          ],
+          [
+            "World Cup last 16",
+            "wc_r16",
+            1.0
+          ]
+        ]
+      },
+      "Vitinha": {
+        "P": 79,
+        "P_note": "Player of the Match in the Champions League final (141 of 150 passes completed); 1 goal and 7 assists in Ligue 1; Portugal out in the last 16",
+        "F": 92,
+        "F_note": "No notable disciplinary issues identified",
+        "ledger": [
+          [
+            "Champions League (final Player of the Match)",
+            "ucl_win",
+            1.0
+          ],
+          [
+            "Ligue 1",
+            "league_win",
+            0.85
+          ],
+          [
+            "UEFA Super Cup",
+            "uefa_super_cup_win",
+            0.85
+          ],
+          [
+            "Intercontinental Cup",
+            "intercontinental_cup_win",
+            0.85
+          ],
+          [
+            "Trophée des Champions",
+            "super_cup_win",
+            0.85
+          ],
+          [
+            "World Cup last 16",
+            "wc_r16",
+            0.85
+          ]
+        ]
+      }
+    }
+  },
+  "_doc_2026": "2026 covers all 17 contenders named for the full prediction. P judgments use the same 0-100 scale as 2024-25 (Kane 96 = a historic scoring season). PSG's window trophies: Champions League, Ligue 1, UEFA Super Cup, Intercontinental Cup, Trophée des Champions. World Cup: Spain won, Argentina 2nd, England 3rd, France 4th; Norway out in the quarter-finals; Portugal, Brazil, Colombia out in the last 16; Georgia did not qualify."
+}

@@ -1,0 +1,579 @@
+{
+  "fit": {
+    "wP": 0.7,
+    "wT": 0.2,
+    "wF": 0.1,
+    "sigma": 5.0,
+    "gap": 6.0,
+    "loss": 34.9321886928
+  },
+  "backtest": {
+    "2024": {
+      "cands": [
+        "Rodri",
+        "Vinícius Júnior",
+        "Jude Bellingham"
+      ],
+      "pred_tot": [
+        1135.513,
+        1147.1589999999997,
+        1051.9719999999998
+      ],
+      "pred_first": [
+        32.43499999999998,
+        33.964999999999996,
+        22.986000000000004
+      ],
+      "act_tot": [
+        1170,
+        1129,
+        917
+      ],
+      "act_first": [
+        49,
+        35,
+        5
+      ],
+      "pred_field_first": 9.614,
+      "act_field_first": 10,
+      "p_actual_winner_wins": 0.4
+    },
+    "2025": {
+      "cands": [
+        "Ousmane Dembélé",
+        "Lamine Yamal",
+        "Vitinha"
+      ],
+      "pred_tot": [
+        1391.9790000000003,
+        997.1389999999998,
+        663.1440000000003
+      ],
+      "pred_first": [
+        74.28999999999999,
+        13.303000000000004,
+        2.226999999999998
+      ],
+      "act_tot": [
+        1380,
+        1059,
+        703
+      ],
+      "act_first": [
+        73,
+        11,
+        6
+      ],
+      "pred_field_first": 10.18,
+      "act_field_first": 10,
+      "p_actual_winner_wins": 1.0
+    }
+  },
+  "leaderboard": [
+    {
+      "rank": 1,
+      "player": "Harry Kane",
+      "P": 96,
+      "T": 51.0,
+      "F": 94,
+      "merit": 86.8,
+      "points": 1113.6572,
+      "p05": 1048,
+      "p95": 1177,
+      "firsts": 38.73540000000001,
+      "chalk_points": 1438,
+      "chalk_firsts": 80,
+      "win_noise": 1.0,
+      "win_overall": 0.803
+    },
+    {
+      "rank": 2,
+      "player": "Ousmane Dembélé",
+      "P": 87,
+      "T": 68.2,
+      "F": 92,
+      "merit": 83.7,
+      "points": 861.5294,
+      "p05": 790,
+      "p95": 935,
+      "firsts": 17.737800000000007,
+      "chalk_points": 1111,
+      "chalk_firsts": 8,
+      "win_noise": 0.0,
+      "win_overall": 0.1065
+    },
+    {
+      "rank": 3,
+      "player": "Khvicha Kvaratskhelia",
+      "P": 86,
+      "T": 66.9,
+      "F": 92,
+      "merit": 82.8,
+      "points": 791.4972,
+      "p05": 718,
+      "p95": 866,
+      "firsts": 14.488999999999995,
+      "chalk_points": 986,
+      "chalk_firsts": 6,
+      "win_noise": 0.0,
+      "win_overall": 0.05
+    },
+    {
+      "rank": 4,
+      "player": "Lamine Yamal",
+      "P": 86,
+      "T": 66.2,
+      "F": 92,
+      "merit": 82.6,
+      "points": 760.699,
+      "p05": 688,
+      "p95": 833,
+      "firsts": 13.038200000000007,
+      "chalk_points": 928,
+      "chalk_firsts": 6,
+      "win_noise": 0.0,
+      "win_overall": 0.0395
+    },
+    {
+      "rank": 5,
+      "player": "Rodri",
+      "P": 84,
+      "T": 55.5,
+      "F": 92,
+      "merit": 79.1,
+      "points": 464.142,
+      "p05": 396,
+      "p95": 533,
+      "firsts": 3.5580000000000003,
+      "chalk_points": 561,
+      "chalk_firsts": 0,
+      "win_noise": 0.0,
+      "win_overall": 0.001
+    },
+    {
+      "rank": 6,
+      "player": "Michael Olise",
+      "P": 86,
+      "T": 43.9,
+      "F": 92,
+      "merit": 78.2,
+      "points": 388.8108,
+      "p05": 324,
+      "p95": 454,
+      "firsts": 2.5546,
+      "chalk_points": 423,
+      "chalk_firsts": 0,
+      "win_noise": 0.0,
+      "win_overall": 0.0
+    },
+    {
+      "rank": 7,
+      "player": "Lionel Messi",
+      "P": 90,
+      "T": 28.0,
+      "F": 92,
+      "merit": 77.8,
+      "points": 378.0114,
+      "p05": 315,
+      "p95": 445,
+      "firsts": 2.2855999999999996,
+      "chalk_points": 403,
+      "chalk_firsts": 0,
+      "win_noise": 0.0,
+      "win_overall": 0.0
+    },
+    {
+      "rank": 8,
+      "player": "Vitinha",
+      "P": 79,
+      "T": 68.6,
+      "F": 92,
+      "merit": 78.2,
+      "points": 376.261,
+      "p05": 314,
+      "p95": 440,
+      "firsts": 2.4202,
+      "chalk_points": 385,
+      "chalk_firsts": 0,
+      "win_noise": 0.0,
+      "win_overall": 0.0
+    },
+    {
+      "rank": 9,
+      "player": "Luis Díaz",
+      "P": 85,
+      "T": 37.7,
+      "F": 92,
+      "merit": 76.2,
+      "points": 258.7258,
+      "p05": 204,
+      "p95": 317,
+      "firsts": 1.0670000000000004,
+      "chalk_points": 119,
+      "chalk_firsts": 0,
+      "win_noise": 0.0,
+      "win_overall": 0.0
+    },
+    {
+      "rank": 10,
+      "player": "Kylian Mbappé",
+      "P": 92,
+      "T": 11.0,
+      "F": 92,
+      "merit": 75.8,
+      "points": 257.0036,
+      "p05": 203,
+      "p95": 314,
+      "firsts": 1.1112,
+      "chalk_points": 126,
+      "chalk_firsts": 0,
+      "win_noise": 0.0,
+      "win_overall": 0.0
+    },
+    {
+      "rank": 11,
+      "player": "Erling Haaland",
+      "P": 89,
+      "T": 18.1,
+      "F": 92,
+      "merit": 75.1,
+      "points": 227.1702,
+      "p05": 176,
+      "p95": 281,
+      "firsts": 0.9242000000000002,
+      "chalk_points": 103,
+      "chalk_firsts": 0,
+      "win_noise": 0.0,
+      "win_overall": 0.0
+    },
+    {
+      "rank": 12,
+      "player": "Lautaro Martínez",
+      "P": 82,
+      "T": 43.3,
+      "F": 92,
+      "merit": 75.3,
+      "points": 205.1268,
+      "p05": 157,
+      "p95": 256,
+      "firsts": 0.7576000000000002,
+      "chalk_points": 56,
+      "chalk_firsts": 0,
+      "win_noise": 0.0,
+      "win_overall": 0.0
+    },
+    {
+      "rank": 13,
+      "player": "Nuno Mendes",
+      "P": 76,
+      "T": 62.9,
+      "F": 92,
+      "merit": 75.0,
+      "points": 182.5534,
+      "p05": 137,
+      "p95": 231,
+      "firsts": 0.642,
+      "chalk_points": 40,
+      "chalk_firsts": 0,
+      "win_noise": 0.0,
+      "win_overall": 0.0
+    },
+    {
+      "rank": 14,
+      "player": "Declan Rice",
+      "P": 78,
+      "T": 40.2,
+      "F": 92,
+      "merit": 71.8,
+      "points": 84.5562,
+      "p05": 53,
+      "p95": 120,
+      "firsts": 0.20920000000000008,
+      "chalk_points": 14,
+      "chalk_firsts": 0,
+      "win_noise": 0.0,
+      "win_overall": 0.0
+    },
+    {
+      "rank": 15,
+      "player": "Jude Bellingham",
+      "P": 82,
+      "T": 13.4,
+      "F": 92,
+      "merit": 69.3,
+      "points": 36.6154,
+      "p05": 17,
+      "p95": 59,
+      "firsts": 0.032199999999999986,
+      "chalk_points": 3,
+      "chalk_firsts": 0,
+      "win_noise": 0.0,
+      "win_overall": 0.0
+    },
+    {
+      "rank": 16,
+      "player": "Bruno Fernandes",
+      "P": 84,
+      "T": 2.0,
+      "F": 92,
+      "merit": 68.4,
+      "points": 21.742,
+      "p05": 7,
+      "p95": 40,
+      "firsts": 0.015200000000000003,
+      "chalk_points": 0,
+      "chalk_firsts": 0,
+      "win_noise": 0.0,
+      "win_overall": 0.0
+    },
+    {
+      "rank": 17,
+      "player": "Vinícius Júnior",
+      "P": 83,
+      "T": 5.4,
+      "F": 86,
+      "merit": 67.8,
+      "points": 21.202,
+      "p05": 7,
+      "p95": 39,
+      "firsts": 0.04099999999999997,
+      "chalk_points": 4,
+      "chalk_firsts": 0,
+      "win_noise": 0.0,
+      "win_overall": 0.0
+    }
+  ],
+  "field_first_expected": 0.3816,
+  "remainder_points": 270.6966000000002,
+  "remainder_offset": 6.12579345703125,
+  "sensitivity": [
+    {
+      "label": "Baseline (fitted weights)",
+      "top3": [
+        [
+          "Harry Kane",
+          1113.6572
+        ],
+        [
+          "Ousmane Dembélé",
+          861.5294
+        ],
+        [
+          "Khvicha Kvaratskhelia",
+          791.4972
+        ]
+      ]
+    },
+    {
+      "label": "Silverware-heavy jury (wP = wT = 0.45)",
+      "top3": [
+        [
+          "Ousmane Dembélé",
+          1067.458
+        ],
+        [
+          "Khvicha Kvaratskhelia",
+          1005.6173333333334
+        ],
+        [
+          "Lamine Yamal",
+          966.8606666666667
+        ]
+      ]
+    },
+    {
+      "label": "Output-heavy jury (wP + 0.05)",
+      "top3": [
+        [
+          "Harry Kane",
+          1142.7146666666667
+        ],
+        [
+          "Ousmane Dembélé",
+          764.8026666666667
+        ],
+        [
+          "Khvicha Kvaratskhelia",
+          696.04
+        ]
+      ]
+    },
+    {
+      "label": "Yamal rated Spain's World Cup standout (essential 1.0)",
+      "top3": [
+        [
+          "Harry Kane",
+          1101.3853333333334
+        ],
+        [
+          "Lamine Yamal",
+          861.8186666666667
+        ],
+        [
+          "Ousmane Dembélé",
+          847.578
+        ]
+      ]
+    },
+    {
+      "label": "No juror history (merit + blocs only)",
+      "top3": [
+        [
+          "Harry Kane",
+          1121.6606666666667
+        ],
+        [
+          "Ousmane Dembélé",
+          872.8993333333333
+        ],
+        [
+          "Khvicha Kvaratskhelia",
+          807.8033333333333
+        ]
+      ]
+    }
+  ],
+  "weight_scan": [
+    {
+      "wP": 0.45,
+      "top3": [
+        [
+          "Ousmane Dembélé",
+          1067.015
+        ],
+        [
+          "Khvicha Kvaratskhelia",
+          1005.51
+        ],
+        [
+          "Lamine Yamal",
+          963.63
+        ]
+      ]
+    },
+    {
+      "wP": 0.5,
+      "top3": [
+        [
+          "Ousmane Dembélé",
+          1044.73
+        ],
+        [
+          "Khvicha Kvaratskhelia",
+          984.165
+        ],
+        [
+          "Lamine Yamal",
+          943.025
+        ]
+      ]
+    },
+    {
+      "wP": 0.55,
+      "top3": [
+        [
+          "Ousmane Dembélé",
+          1017.205
+        ],
+        [
+          "Khvicha Kvaratskhelia",
+          956.03
+        ],
+        [
+          "Harry Kane",
+          955.345
+        ]
+      ]
+    },
+    {
+      "wP": 0.6,
+      "top3": [
+        [
+          "Harry Kane",
+          1019.79
+        ],
+        [
+          "Ousmane Dembélé",
+          979.715
+        ],
+        [
+          "Khvicha Kvaratskhelia",
+          916.73
+        ]
+      ]
+    },
+    {
+      "wP": 0.65,
+      "top3": [
+        [
+          "Harry Kane",
+          1075.37
+        ],
+        [
+          "Ousmane Dembélé",
+          929.415
+        ],
+        [
+          "Khvicha Kvaratskhelia",
+          863.965
+        ]
+      ]
+    },
+    {
+      "wP": 0.7,
+      "top3": [
+        [
+          "Harry Kane",
+          1120.02
+        ],
+        [
+          "Ousmane Dembélé",
+          859.535
+        ],
+        [
+          "Khvicha Kvaratskhelia",
+          791.525
+        ]
+      ]
+    },
+    {
+      "wP": 0.75,
+      "top3": [
+        [
+          "Harry Kane",
+          1146.51
+        ],
+        [
+          "Ousmane Dembélé",
+          764.365
+        ],
+        [
+          "Khvicha Kvaratskhelia",
+          695.31
+        ]
+      ]
+    }
+  ],
+  "leader_bands": [
+    {
+      "leader": "Ousmane Dembélé",
+      "from": 0.45,
+      "to": 0.58
+    },
+    {
+      "leader": "Harry Kane",
+      "from": 0.59,
+      "to": 0.75
+    }
+  ],
+  "params": {
+    "W_F": 0.1,
+    "REMAINDER_SIZE": 5,
+    "REMAINDER_SHARE": 0.04,
+    "FIELD_SIZE": 7,
+    "FIELD_STEP": 1.5,
+    "HISTORY_GAMMA": 1.0,
+    "LEAN_BETA": 0.05,
+    "PREDICT_SIMS": 5000
+  }
+}

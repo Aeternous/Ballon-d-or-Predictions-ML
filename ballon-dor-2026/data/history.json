@@ -1,0 +1,386 @@
+{
+  "_doc": "Published 2024 and 2025 Ballon d'Or voting facts used to rebuild each juror's ballot. 'anchors' are juror ballots confirmed by published reporting. Everything else in the per-juror tables is rebuilt by src/reconstruct.py so that it matches every aggregate below exactly.",
+  "2024": {
+    "jury_size": 99,
+    "excluded_seats": [
+      94
+    ],
+    "excluded_note": "France Football used 99 jurors in 2024. The roster has 100 seats with Gabon listed twice, so the duplicate Gabon seat (94) gets no 2024 ballot.",
+    "top3": [
+      "Rodri",
+      "Vinícius Júnior",
+      "Jude Bellingham"
+    ],
+    "winner": "Rodri",
+    "totals": {
+      "Rodri": 1170,
+      "Vinícius Júnior": 1129,
+      "Jude Bellingham": 917,
+      "Dani Carvajal": 550,
+      "Erling Haaland": 432,
+      "Kylian Mbappé": 420,
+      "Lautaro Martínez": 402,
+      "Lamine Yamal": 383,
+      "Toni Kroos": 291,
+      "Harry Kane": 201
+    },
+    "others": [
+      "Florian Wirtz",
+      "Phil Foden",
+      "Nico Williams",
+      "Other nominee A",
+      "Other nominee B",
+      "Other nominee C",
+      "Other nominee D",
+      "Other nominee E"
+    ],
+    "others_total": 738,
+    "tracked": [
+      "Rodri",
+      "Vinícius Júnior",
+      "Jude Bellingham",
+      "Kylian Mbappé",
+      "Lamine Yamal",
+      "Harry Kane",
+      "Erling Haaland",
+      "Lautaro Martínez"
+    ],
+    "firsts": {
+      "Rodri": 49,
+      "Vinícius Júnior": 35,
+      "Jude Bellingham": 5,
+      "Dani Carvajal": 4,
+      "Toni Kroos": 2
+    },
+    "field_firsts": 10,
+    "absent": {
+      "Rodri": 5,
+      "Vinícius Júnior": 3
+    },
+    "regional_firsts": [
+      {
+        "confed": "UEFA",
+        "player": "Rodri",
+        "count": 28,
+        "note": "28 of 40 European jurors put Rodri 1st"
+      },
+      {
+        "confed": "CAF",
+        "player": "Vinícius Júnior",
+        "count": 10,
+        "note": "12 of 22 African jurors put Vinícius 1st; scaled to the 19 African 2024 seats in this roster"
+      },
+      {
+        "confed": "CAF",
+        "player": "Rodri",
+        "count": 5,
+        "note": "6 of 22 African jurors put Rodri 1st; scaled to 19 seats"
+      }
+    ],
+    "region_tilt": [
+      {
+        "confed": "UEFA",
+        "player": "Rodri",
+        "value": 1.5
+      },
+      {
+        "confed": "CAF",
+        "player": "Vinícius Júnior",
+        "value": 2.0
+      },
+      {
+        "confed": "CONMEBOL",
+        "player": "Vinícius Júnior",
+        "value": 1.5
+      }
+    ],
+    "anchors": [
+      {
+        "country": "France",
+        "top": [
+          "Vinícius Júnior",
+          "Rodri",
+          "Jude Bellingham",
+          "Kylian Mbappé",
+          "Lamine Yamal",
+          "Harry Kane",
+          "Lautaro Martínez",
+          "Erling Haaland",
+          "Florian Wirtz",
+          "Phil Foden"
+        ],
+        "level": "verified",
+        "source": "goal.com/fr: le vote surprenant de la France"
+      },
+      {
+        "country": "England",
+        "top": [
+          "Rodri"
+        ],
+        "level": "partial",
+        "source": "givemesport / goal.com: Henry Winter voted Rodri 1st"
+      },
+      {
+        "country": "Germany",
+        "top": [
+          "Rodri"
+        ],
+        "level": "partial",
+        "source": "givemesport: Karlheinz Wild voted Rodri 1st"
+      },
+      {
+        "country": "Italy",
+        "top": [
+          "Rodri"
+        ],
+        "level": "partial",
+        "source": "givemesport: Paolo Condò voted Rodri 1st"
+      },
+      {
+        "country": "Portugal",
+        "top": [
+          "Rodri"
+        ],
+        "level": "partial",
+        "source": "goal.com: Portugal's juror (António Tadeia) voted Rodri 1st"
+      },
+      {
+        "country": "Netherlands",
+        "top": [
+          "Rodri"
+        ],
+        "level": "partial",
+        "source": "TNT Sports / goal.com: Netherlands voted Rodri 1st"
+      },
+      {
+        "country": "Brazil",
+        "top": [
+          "Vinícius Júnior"
+        ],
+        "level": "partial",
+        "source": "TNT Sports / goal.com: Brazil voted Vinícius 1st"
+      },
+      {
+        "country": "Spain",
+        "top": [
+          "Vinícius Júnior"
+        ],
+        "level": "partial",
+        "source": "TNT Sports / goal.com: Spain voted Vinícius 1st"
+      },
+      {
+        "country": "Scotland",
+        "top": [
+          "Jude Bellingham"
+        ],
+        "level": "partial",
+        "source": "TNT Sports: Scotland voted Bellingham 1st"
+      },
+      {
+        "country": "Slovenia",
+        "top": [
+          "Jude Bellingham"
+        ],
+        "level": "partial",
+        "source": "TNT Sports: Slovenia voted Bellingham 1st"
+      },
+      {
+        "country": "Ecuador",
+        "top": [
+          "Toni Kroos",
+          "Vinícius Júnior",
+          "Nico Williams"
+        ],
+        "level": "partial",
+        "source": "goal.com: Ecuador (Patricio Carneiro Garcés) voted Kroos, Vinícius, Nico Williams"
+      },
+      {
+        "country": "Ghana",
+        "above": [
+          [
+            "Rodri",
+            "Vinícius Júnior"
+          ]
+        ],
+        "level": "partial",
+        "source": "liquiddesign / Pulse Ghana: Michael Oti Adjei ranked Rodri ahead of Vinícius"
+      },
+      {
+        "country": "Finland",
+        "exclude": [
+          "Vinícius Júnior"
+        ],
+        "level": "partial",
+        "source": "Published votes: Juha Kanerva (Finland) left Vinícius out of his top 10 and later stepped down from the jury"
+      },
+      {
+        "country": "El Salvador",
+        "exclude": [
+          "Vinícius Júnior"
+        ],
+        "level": "partial",
+        "source": "Published votes: El Salvador's juror (Bruno Porzio) left Vinícius out of his top 10"
+      }
+    ],
+    "firsts_note": "Published: Rodri 49, Vinícius 35, Bellingham 5, Carvajal 4, Kroos 2; the other 4 first places went to other nominees.",
+    "absent_note": "Vinícius was left off by Namibia, El Salvador and Finland. Namibia is not in this roster, so the third omission is placed by the model."
+  },
+  "2025": {
+    "jury_size": 100,
+    "excluded_seats": [],
+    "top3": [
+      "Ousmane Dembélé",
+      "Lamine Yamal",
+      "Vitinha"
+    ],
+    "winner": "Ousmane Dembélé",
+    "totals": {
+      "Ousmane Dembélé": 1380,
+      "Lamine Yamal": 1059,
+      "Vitinha": 703,
+      "Mohamed Salah": 657,
+      "Raphinha": 620,
+      "Achraf Hakimi": 484,
+      "Kylian Mbappé": 378,
+      "Cole Palmer": 211,
+      "Gianluigi Donnarumma": 172,
+      "Nuno Mendes": 171,
+      "Pedri": 124,
+      "Khvicha Kvaratskhelia": 123,
+      "Harry Kane": 112,
+      "Désiré Doué": 74,
+      "Viktor Gyökeres": 56,
+      "Scott McTominay": 45,
+      "Vinícius Júnior": 51,
+      "Lautaro Martínez": 37,
+      "Jude Bellingham": 21,
+      "Erling Haaland": 18,
+      "Declan Rice": 13,
+      "Michael Olise": 4
+    },
+    "others": [
+      "Other nominee A",
+      "Other nominee B",
+      "Other nominee C",
+      "Other nominee D",
+      "Other nominee E",
+      "Other nominee F"
+    ],
+    "others_total": 187,
+    "tracked": [
+      "Ousmane Dembélé",
+      "Lamine Yamal",
+      "Vitinha",
+      "Kylian Mbappé",
+      "Harry Kane",
+      "Khvicha Kvaratskhelia",
+      "Nuno Mendes",
+      "Vinícius Júnior",
+      "Lautaro Martínez",
+      "Jude Bellingham",
+      "Erling Haaland",
+      "Declan Rice",
+      "Michael Olise"
+    ],
+    "firsts": {
+      "Ousmane Dembélé": 73,
+      "Lamine Yamal": 11,
+      "Vitinha": 6,
+      "Mohamed Salah": 4,
+      "Achraf Hakimi": 3,
+      "Kylian Mbappé": 1,
+      "Khvicha Kvaratskhelia": 1,
+      "Scott McTominay": 1
+    },
+    "field_firsts": 10,
+    "absent": {},
+    "regional_firsts": [],
+    "region_tilt": [
+      {
+        "confed": "CAF",
+        "player": "Ousmane Dembélé",
+        "value": 1.5
+      },
+      {
+        "confed": "AFC",
+        "player": "Ousmane Dembélé",
+        "value": 1.5
+      },
+      {
+        "confed": "CONMEBOL",
+        "player": "Vitinha",
+        "value": 1.5
+      },
+      {
+        "confed": "CONMEBOL",
+        "player": "Raphinha",
+        "value": 2.0
+      },
+      {
+        "confed": "UEFA",
+        "player": "Lamine Yamal",
+        "value": 0.5
+      }
+    ],
+    "anchors": [
+      {
+        "country": "Spain",
+        "top": [
+          "Lamine Yamal",
+          "Vitinha",
+          "Ousmane Dembélé"
+        ],
+        "level": "verified",
+        "source": "sportbible: Spain's juror Alfredo Relaño voted Yamal, Vitinha, Dembélé"
+      },
+      {
+        "country": "Ghana",
+        "top": [
+          "Ousmane Dembélé",
+          "Lamine Yamal",
+          "Achraf Hakimi",
+          "Mohamed Salah",
+          "Raphinha",
+          "Vitinha"
+        ],
+        "then": [
+          "Kylian Mbappé",
+          "Gianluigi Donnarumma",
+          "Viktor Gyökeres",
+          "Désiré Doué"
+        ],
+        "level": "verified",
+        "source": "Flashscore: How Ghana's journalist voted (Michael Oti Adjei)"
+      },
+      {
+        "country": "South Africa",
+        "top": [
+          "Mohamed Salah",
+          "Ousmane Dembélé",
+          "Lamine Yamal"
+        ],
+        "level": "verified",
+        "source": "sportsclub.co.za: Who Mark Gleeson voted for"
+      },
+      {
+        "country": "Georgia",
+        "top": [
+          "Khvicha Kvaratskhelia"
+        ],
+        "level": "partial",
+        "source": "sportaran / tribuna: only Georgia ranked Kvaratskhelia 1st"
+      },
+      {
+        "country": "Scotland",
+        "top": [
+          "Scott McTominay"
+        ],
+        "level": "partial",
+        "source": "sportaran / tribuna: Scotland ranked McTominay 1st"
+      }
+    ],
+    "firsts_note": "Published: Dembélé 73, Yamal 11, Vitinha 6, Salah 4, Hakimi 3, Mbappé 1, Kvaratskhelia 1 (Georgia), McTominay 1 (Scotland) = 100.",
+    "others_note": "Remaining 187 points: Lewandowski 49, João Neves 40, Guirassy 25, Mac Allister 21, Fabián Ruiz 20, Dumfries 20, Van Dijk 7, Wirtz 5."
+  },
+  "_doc_tracked": "'tracked' players get per-juror points in output/ballots_<year>.csv, matched exactly to their published totals; these feed the 2026 juror-history term."
+}

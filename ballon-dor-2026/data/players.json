@@ -1,0 +1,162 @@
+{
+  "_doc": "Nationality and media-bloc tags used for juror affinity. nat_lang = language bloc of the player's country; league_lang = language bloc of the league he played in during that award window (keyed by year when it changed).",
+  "Rodri": {
+    "nation": "Spain",
+    "nat_lang": "es",
+    "league_lang": "en"
+  },
+  "Vinícius Júnior": {
+    "nation": "Brazil",
+    "nat_lang": "pt",
+    "league_lang": "es"
+  },
+  "Jude Bellingham": {
+    "nation": "England",
+    "nat_lang": "en",
+    "league_lang": "es"
+  },
+  "Dani Carvajal": {
+    "nation": "Spain",
+    "nat_lang": "es",
+    "league_lang": "es"
+  },
+  "Erling Haaland": {
+    "nation": "Norway",
+    "nat_lang": "other",
+    "league_lang": "en"
+  },
+  "Kylian Mbappé": {
+    "nation": "France",
+    "nat_lang": "fr",
+    "league_lang": {
+      "2024": "fr",
+      "2025": "es",
+      "2026": "es"
+    }
+  },
+  "Lautaro Martínez": {
+    "nation": "Argentina",
+    "nat_lang": "es",
+    "league_lang": "it"
+  },
+  "Lamine Yamal": {
+    "nation": "Spain",
+    "nat_lang": "es",
+    "league_lang": "es"
+  },
+  "Toni Kroos": {
+    "nation": "Germany",
+    "nat_lang": "de",
+    "league_lang": "es"
+  },
+  "Harry Kane": {
+    "nation": "England",
+    "nat_lang": "en",
+    "league_lang": "de"
+  },
+  "Florian Wirtz": {
+    "nation": "Germany",
+    "nat_lang": "de",
+    "league_lang": "de"
+  },
+  "Phil Foden": {
+    "nation": "England",
+    "nat_lang": "en",
+    "league_lang": "en"
+  },
+  "Nico Williams": {
+    "nation": "Spain",
+    "nat_lang": "es",
+    "league_lang": "es"
+  },
+  "Ousmane Dembélé": {
+    "nation": "France",
+    "nat_lang": "fr",
+    "league_lang": "fr"
+  },
+  "Vitinha": {
+    "nation": "Portugal",
+    "nat_lang": "pt",
+    "league_lang": "fr"
+  },
+  "Mohamed Salah": {
+    "nation": "Egypt",
+    "nat_lang": "ar",
+    "league_lang": "en"
+  },
+  "Raphinha": {
+    "nation": "Brazil",
+    "nat_lang": "pt",
+    "league_lang": "es"
+  },
+  "Achraf Hakimi": {
+    "nation": "Morocco",
+    "nat_lang": "ar",
+    "league_lang": "fr"
+  },
+  "Cole Palmer": {
+    "nation": "England",
+    "nat_lang": "en",
+    "league_lang": "en"
+  },
+  "Gianluigi Donnarumma": {
+    "nation": "Italy",
+    "nat_lang": "it",
+    "league_lang": "fr"
+  },
+  "Nuno Mendes": {
+    "nation": "Portugal",
+    "nat_lang": "pt",
+    "league_lang": "fr"
+  },
+  "Pedri": {
+    "nation": "Spain",
+    "nat_lang": "es",
+    "league_lang": "es"
+  },
+  "Khvicha Kvaratskhelia": {
+    "nation": "Georgia",
+    "nat_lang": "other",
+    "league_lang": "fr"
+  },
+  "Désiré Doué": {
+    "nation": "France",
+    "nat_lang": "fr",
+    "league_lang": "fr"
+  },
+  "Viktor Gyökeres": {
+    "nation": "Sweden",
+    "nat_lang": "other",
+    "league_lang": "pt"
+  },
+  "Scott McTominay": {
+    "nation": "Scotland",
+    "nat_lang": "en",
+    "league_lang": "it"
+  },
+  "Lionel Messi": {
+    "nation": "Argentina",
+    "nat_lang": "es",
+    "league_lang": "en"
+  },
+  "Bruno Fernandes": {
+    "nation": "Portugal",
+    "nat_lang": "pt",
+    "league_lang": "en"
+  },
+  "Declan Rice": {
+    "nation": "England",
+    "nat_lang": "en",
+    "league_lang": "en"
+  },
+  "Luis Díaz": {
+    "nation": "Colombia",
+    "nat_lang": "es",
+    "league_lang": "de"
+  },
+  "Michael Olise": {
+    "nation": "France",
+    "nat_lang": "fr",
+    "league_lang": "de"
+  }
+}

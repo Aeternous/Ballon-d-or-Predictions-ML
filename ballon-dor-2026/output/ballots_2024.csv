@@ -1,0 +1,101 @@
+seat,country,juror,source,first_place,Rodri pos,Rodri pts,Vinícius Júnior pos,Vinícius Júnior pts,Jude Bellingham pos,Jude Bellingham pts,Kylian Mbappé pos,Kylian Mbappé pts,Lamine Yamal pos,Lamine Yamal pts,Harry Kane pos,Harry Kane pts,Erling Haaland pos,Erling Haaland pts,Lautaro Martínez pos,Lautaro Martínez pts
+1,Spain,José Félix Díaz,partial,Vinícius Júnior,4,8,1,15,2,12,9,2,3,10,7,4,8,3,6,5
+2,Argentina,Enrique Wolff,reconstructed,Vinícius Júnior,,0,1,15,2,12,7,4,5,7,6,5,4,8,9,2
+3,France,Vincent Garcia,verified,Vinícius Júnior,2,12,1,15,3,10,4,8,5,7,6,5,8,3,7,4
+4,England,Henry Winter,partial,Rodri,1,15,3,10,2,12,5,7,9,2,4,8,8,3,,0
+5,Brazil,Cleber Machado,partial,Vinícius Júnior,,0,1,15,8,3,10,1,9,2,,0,5,7,2,12
+6,Morocco,Mustapha Badri,reconstructed,Rodri,1,15,3,10,8,3,4,8,,0,,0,5,7,7,4
+7,Portugal,Joaquim Rita,partial,Rodri,1,15,3,10,2,12,4,8,,0,5,7,9,2,8,3
+8,Belgium,Christophe Franken,reconstructed,Vinícius Júnior,2,12,1,15,3,10,5,7,4,8,6,5,7,4,,0
+9,Netherlands,Frans van den Nieuwenhof,partial,Rodri,1,15,3,10,5,7,8,3,6,5,10,1,7,4,4,8
+10,Mexico,Salvador Aguilera,reconstructed,Rodri,1,15,2,12,5,7,,0,3,10,,0,10,1,9,2
+11,Colombia,Paché Andrade,reconstructed,Lautaro Martínez,9,2,2,12,3,10,,0,10,1,,0,8,3,1,15
+12,Germany,Karlheinz Wild,partial,Rodri,1,15,2,12,4,8,3,10,,0,7,4,,0,5,7
+13,Croatia,Zdravko Reić,reconstructed,Vinícius Júnior,3,10,1,15,2,12,,0,7,4,,0,5,7,6,5
+14,Switzerland,Christophe Cerf,reconstructed,Toni Kroos,4,8,2,12,5,7,3,10,6,5,,0,10,1,9,2
+15,Italy,Paolo Condò,partial,Rodri,1,15,3,10,6,5,5,7,,0,7,4,8,3,4,8
+16,USA,Paul Kennedy,reconstructed,Vinícius Júnior,2,12,1,15,3,10,6,5,5,7,9,2,,0,,0
+17,Japan,Shuichi Tamura,reconstructed,Vinícius Júnior,2,12,1,15,3,10,4,8,,0,,0,7,4,5,7
+18,Senegal,Salif Diallo,reconstructed,Lautaro Martínez,4,8,3,10,,0,6,5,5,7,10,1,2,12,1,15
+19,Norway,Lars Tjærnås,reconstructed,Rodri,1,15,2,12,3,10,7,4,6,5,,0,4,8,8,3
+20,Uruguay,Ricardo Piñeyrúa,reconstructed,Vinícius Júnior,2,12,1,15,4,8,6,5,5,7,,0,8,3,,0
+21,Denmark,Troels Bager Thøgersen,reconstructed,Vinícius Júnior,2,12,1,15,5,7,3,10,7,4,9,2,4,8,10,1
+22,Iran,Siamak Rahmani,reconstructed,Rodri,1,15,5,7,2,12,3,10,8,3,,0,6,5,10,1
+23,Austria,Walter Kowatsch-Schwarz,reconstructed,Rodri,1,15,4,8,2,12,5,7,8,3,9,2,,0,3,10
+24,Egypt,Inas Mazhar,reconstructed,Vinícius Júnior,3,10,1,15,2,12,7,4,,0,,0,,0,4,8
+25,Ecuador,Tito Rosales Cox,partial,Toni Kroos,6,5,2,12,7,4,,0,4,8,8,3,10,1,,0
+26,Nigeria,Samm Audu,reconstructed,Rodri,1,15,3,10,2,12,6,5,9,2,10,1,,0,8,3
+27,Türkiye,Fatih Doğan,reconstructed,Rodri,1,15,5,7,2,12,4,8,10,1,,0,,0,3,10
+28,Australia,David Davutovic,reconstructed,Vinícius Júnior,5,7,1,15,4,8,,0,2,12,3,10,6,5,,0
+29,Algeria,Yazid Ouahib,reconstructed,Rodri,1,15,3,10,4,8,6,5,,0,,0,,0,5,7
+30,Canada,John Molinaro,reconstructed,Vinícius Júnior,3,10,1,15,2,12,5,7,4,8,9,2,10,1,,0
+31,Ivory Coast,Adam Khalil,reconstructed,Vinícius Júnior,2,12,1,15,3,10,6,5,9,2,8,3,4,8,,0
+32,South Korea,Sungmo Lee,reconstructed,Rodri,1,15,8,3,2,12,,0,6,5,7,4,5,7,4,8
+33,Ukraine,Igor Linnyk,reconstructed,Rodri,1,15,2,12,3,10,4,8,,0,,0,7,4,6,5
+34,Paraguay,Gabriel Cazenave,reconstructed,Vinícius Júnior,2,12,1,15,3,10,5,7,10,1,,0,6,5,8,3
+35,Russia,Konstantin Klechev,reconstructed,Rodri,1,15,4,8,2,12,3,10,7,4,10,1,5,7,,0
+36,Poland,Maciej Iwański,reconstructed,Rodri,1,15,3,10,2,12,,0,8,3,10,1,5,7,9,2
+37,Sweden,Olof Lundh,reconstructed,Rodri,1,15,3,10,2,12,9,2,5,7,4,8,6,5,,0
+38,Wales,Paul Abbandonato,reconstructed,Rodri,1,15,2,12,4,8,,0,,0,,0,6,5,5,7
+39,Hungary,György Szöllősi,reconstructed,Rodri,1,15,2,12,3,10,5,7,6,5,,0,7,4,8,3
+40,Serbia,Vladimir Novak,reconstructed,Rodri,1,15,3,10,2,12,9,2,,0,,0,10,1,6,5
+41,DR Congo,Jenovic Mbowa,reconstructed,Vinícius Júnior,2,12,1,15,4,8,3,10,6,5,,0,5,7,9,2
+42,Scotland,John Greechan,partial,Jude Bellingham,3,10,2,12,1,15,8,3,7,4,,0,4,8,,0
+43,Cameroon,Emmanuel Gustave Samnick,reconstructed,Vinícius Júnior,5,7,1,15,3,10,,0,8,3,4,8,10,1,9,2
+44,Panama,Campo Elías Estrada,reconstructed,Rodri,1,15,2,12,4,8,,0,6,5,,0,7,4,9,2
+45,Slovakia,Marcel Merčiak,reconstructed,Rodri,1,15,3,10,4,8,9,2,8,3,6,5,5,7,,0
+46,Greece,Manos Staramopoulos,reconstructed,Rodri,1,15,3,10,4,8,8,3,5,7,,0,9,2,,0
+47,Venezuela,Francisco Blavia,reconstructed,Vinícius Júnior,2,12,1,15,7,4,5,7,8,3,9,2,10,1,3,10
+48,Czechia,Stanislav Hrabě,reconstructed,Rodri,1,15,3,10,2,12,8,3,6,5,5,7,,0,7,4
+49,Chile,Danilo Díaz,reconstructed,Vinícius Júnior,2,12,1,15,7,4,9,2,5,7,,0,4,8,,0
+50,Peru,Roberto Castro,reconstructed,Rodri,1,15,5,7,2,12,,0,4,8,10,1,9,2,7,4
+51,Costa Rica,Rodrigo Calvo,reconstructed,Vinícius Júnior,7,4,1,15,5,7,,0,3,10,,0,8,3,4,8
+52,Romania,Emanuel Roșu,reconstructed,Erling Haaland,4,8,9,2,2,12,8,3,7,4,,0,1,15,6,5
+53,Qatar,Majed Al-Khelaifi,reconstructed,Rodri,1,15,5,7,3,10,8,3,9,2,6,5,4,8,2,12
+54,Tunisia,Tarek Gharbi,reconstructed,Vinícius Júnior,2,12,1,15,5,7,7,4,9,2,,0,3,10,10,1
+55,Finland,Juha Kanerva,partial,Rodri,1,15,,0,2,12,,0,6,5,,0,,0,,0
+56,Republic of Ireland,Philip Quinn,reconstructed,Vinícius Júnior,3,10,1,15,2,12,5,7,6,5,7,4,4,8,10,1
+57,Bosnia & Herzegovina,Bakir Tiro,reconstructed,Erling Haaland,2,12,4,8,3,10,5,7,,0,,0,1,15,9,2
+58,Ghana,Michael Oti Adjei,partial,Jude Bellingham,2,12,3,10,1,15,8,3,7,4,,0,5,7,6,5
+59,Jamaica,Sean Williams,reconstructed,Dani Carvajal,4,8,2,12,5,7,6,5,3,10,,0,,0,7,4
+60,Iceland,Víðir Sigurðsson,reconstructed,Rodri,1,15,2,12,3,10,,0,6,5,7,4,5,7,8,3
+61,Albania,Besnik Dizdari,reconstructed,Vinícius Júnior,2,12,1,15,6,5,8,3,,0,,0,5,7,4,8
+62,North Macedonia,Miko Zahariev,reconstructed,Rodri,1,15,2,12,5,7,,0,8,3,9,2,3,10,4,8
+63,South Africa,Mark Gleeson,reconstructed,Jude Bellingham,2,12,3,10,1,15,8,3,,0,6,5,,0,,0
+64,Iraq,Ali Nouri,reconstructed,Rodri,1,15,9,2,2,12,6,5,8,3,7,4,,0,3,10
+65,UAE,Mohammed Al-Joker,reconstructed,Rodri,1,15,2,12,10,1,6,5,7,4,,0,,0,4,8
+66,Cabo Verde,Pedro Clovis,reconstructed,Vinícius Júnior,3,10,1,15,4,8,5,7,,0,2,12,8,3,,0
+67,Montenegro,Danilo Mitrović,reconstructed,Rodri,1,15,,0,2,12,5,7,10,1,9,2,3,10,,0
+68,Honduras,Gerson Gómez,reconstructed,Vinícius Júnior,,0,1,15,3,10,7,4,6,5,10,1,,0,2,12
+69,Georgia,Otar Giorgadze,reconstructed,Rodri,1,15,2,12,3,10,,0,,0,10,1,5,7,,0
+70,Bolivia,Carlos Enrique Rivera,reconstructed,Dani Carvajal,4,8,2,12,3,10,,0,,0,,0,9,2,6,5
+71,Guinea,Amadou Diouldé Diallo,reconstructed,Rodri,1,15,3,10,2,12,9,2,4,8,,0,,0,,0
+72,Mali,Souleymane Bobo Tounkara,reconstructed,Vinícius Júnior,4,8,1,15,7,4,5,7,3,10,,0,2,12,10,1
+73,Gabon,James Golden Pincent,reconstructed,Vinícius Júnior,6,5,1,15,2,12,5,7,,0,3,10,,0,,0
+74,New Zealand,Michael Burgess,reconstructed,Rodri,1,15,6,5,2,12,3,10,,0,8,3,7,4,,0
+75,Uzbekistan,Grigoriy Rtveladze,reconstructed,Rodri,1,15,2,12,,0,,0,8,3,,0,6,5,7,4
+76,Jordan,Tayseer Al-Amiri,reconstructed,Vinícius Júnior,2,12,1,15,,0,4,8,3,10,,0,7,4,9,2
+77,Oman,Jaber Al-Ajmi,reconstructed,Dani Carvajal,2,12,5,7,6,5,9,2,8,3,4,8,10,1,3,10
+78,El Salvador,Claudio Martínez,partial,Dani Carvajal,4,8,,0,3,10,8,3,2,12,,0,9,2,,0
+79,Bahrain,Abdullah Ashoor,reconstructed,Vinícius Júnior,,0,1,15,5,7,9,2,,0,,0,7,4,3,10
+80,Curaçao,Kenley Basilio,reconstructed,Rodri,1,15,8,3,2,12,4,8,9,2,10,1,,0,5,7
+81,Syria,Lutfi Al-Awan,reconstructed,Rodri,1,15,2,12,3,10,,0,4,8,,0,8,3,5,7
+82,Zambia,Desmond Katongo,reconstructed,Rodri,1,15,2,12,3,10,9,2,,0,4,8,5,7,10,1
+83,Uganda,Fred Mwambu,reconstructed,Jude Bellingham,5,7,2,12,1,15,,0,,0,6,5,10,1,8,3
+84,Haiti,Raymond Jean-Louis,reconstructed,Vinícius Júnior,2,12,1,15,8,3,3,10,5,7,,0,,0,4,8
+85,Benin,Hugues Zinsou Zounon,reconstructed,Vinícius Júnior,5,7,1,15,2,12,10,1,,0,,0,,0,,0
+86,Luxembourg,Christophe Nadin,reconstructed,Rodri,1,15,2,12,3,10,7,4,5,7,10,1,6,5,8,3
+87,Armenia,Suren Baghdasaryan,reconstructed,Rodri,1,15,2,12,,0,8,3,7,4,10,1,5,7,3,10
+88,Palestine,Bassam Abu Arra,reconstructed,Vinícius Júnior,3,10,1,15,4,8,2,12,7,4,5,7,8,3,10,1
+89,Kyrgyzstan,Kuban Atahanov,reconstructed,Rodri,1,15,2,12,3,10,,0,5,7,,0,,0,8,3
+90,Belarus,Sergey Nikolaev,reconstructed,Rodri,1,15,3,10,2,12,6,5,,0,,0,5,7,9,2
+91,Northern Ireland,Jackie Fullerton,reconstructed,Rodri,1,15,4,8,2,12,10,1,6,5,,0,3,10,8,3
+92,Israel,Elad Zeevi,reconstructed,Rodri,1,15,3,10,2,12,6,5,7,4,,0,10,1,,0
+93,China,Luo Ming,reconstructed,Vinícius Júnior,5,7,1,15,3,10,10,1,7,4,8,3,2,12,4,8
+94,Gabon,Charles Mve,no ballot,,,0,,0,,0,,0,,0,,0,,0,,0
+95,Slovenia,Andrej Stare,partial,Jude Bellingham,3,10,2,12,1,15,6,5,,0,9,2,4,8,,0
+96,Honduras,Kelvin Coello,reconstructed,Rodri,1,15,3,10,2,12,,0,6,5,,0,9,2,8,3
+97,Trinidad & Tobago,Lasana Liburd,reconstructed,Rodri,1,15,3,10,2,12,9,2,5,7,,0,7,4,4,8
+98,Bolivia,Juan Pastén,reconstructed,Vinícius Júnior,2,12,1,15,4,8,5,7,8,3,,0,7,4,3,10
+99,Mauritania,Lassana Camara,reconstructed,Vinícius Júnior,,0,1,15,2,12,4,8,9,2,10,1,3,10,5,7
+100,Lebanon,Ibrahim Al-Wazan,reconstructed,Rodri,1,15,2,12,7,4,3,10,,0,6,5,4,8,,0

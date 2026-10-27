@@ -1,0 +1,101 @@
+seat,country,juror,confed,1st,2nd,3rd,4th,5th,6th,7th,8th,9th,10th
+1,Spain,José Félix Díaz,UEFA,Lamine Yamal,Harry Kane,Rodri,Khvicha Kvaratskhelia,Ousmane Dembélé,Lionel Messi,Vitinha,Michael Olise,Luis Díaz,Kylian Mbappé
+2,Argentina,Enrique Wolff,CONMEBOL,Harry Kane,Lamine Yamal,Lionel Messi,Lautaro Martínez,Ousmane Dembélé,Khvicha Kvaratskhelia,Michael Olise,Luis Díaz,Kylian Mbappé,Vitinha
+3,France,Vincent Garcia,UEFA,Ousmane Dembélé,Harry Kane,Kylian Mbappé,Michael Olise,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Vitinha,Lionel Messi,Luis Díaz
+4,England,Henry Winter,UEFA,Harry Kane,Ousmane Dembélé,Lamine Yamal,Khvicha Kvaratskhelia,Rodri,Declan Rice,Lionel Messi,Jude Bellingham,Michael Olise,Vitinha
+5,Brazil,Cleber Machado,CONMEBOL,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Lionel Messi,Vitinha,Vinícius Júnior,Michael Olise,Lautaro Martínez,Erling Haaland
+6,Morocco,Mustapha Badri,CAF,Ousmane Dembélé,Harry Kane,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Vitinha,Michael Olise,Kylian Mbappé,Lionel Messi,Nuno Mendes
+7,Portugal,Joaquim Rita,UEFA,Harry Kane,Vitinha,Ousmane Dembélé,Nuno Mendes,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Michael Olise,Lionel Messi,Luis Díaz
+8,Belgium,Christophe Franken,UEFA,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Michael Olise,Vitinha,Rodri,Lionel Messi,Kylian Mbappé,Luis Díaz
+9,Netherlands,Frans van den Nieuwenhof,UEFA,Harry Kane,Ousmane Dembélé,Lamine Yamal,Khvicha Kvaratskhelia,Rodri,Vitinha,Michael Olise,Lionel Messi,Luis Díaz,Lautaro Martínez
+10,Mexico,Salvador Aguilera,CONCACAF,Lamine Yamal,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Rodri,Lionel Messi,Vitinha,Michael Olise,Luis Díaz,Kylian Mbappé
+11,Colombia,Paché Andrade,CONMEBOL,Harry Kane,Lamine Yamal,Luis Díaz,Ousmane Dembélé,Khvicha Kvaratskhelia,Lionel Messi,Lautaro Martínez,Vitinha,Michael Olise,Rodri
+12,Germany,Karlheinz Wild,UEFA,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Vitinha,Michael Olise,Lionel Messi,Kylian Mbappé,Luis Díaz
+13,Croatia,Zdravko Reić,UEFA,Harry Kane,Khvicha Kvaratskhelia,Ousmane Dembélé,Lamine Yamal,Rodri,Lionel Messi,Michael Olise,Vitinha,Erling Haaland,Luis Díaz
+14,Switzerland,Christophe Cerf,UEFA,Harry Kane,Khvicha Kvaratskhelia,Ousmane Dembélé,Lamine Yamal,Michael Olise,Kylian Mbappé,Vitinha,Lionel Messi,Rodri,Luis Díaz
+15,Italy,Paolo Condò,UEFA,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Vitinha,Lautaro Martínez,Michael Olise,Lionel Messi,Luis Díaz
+16,USA,Paul Kennedy,CONCACAF,Harry Kane,Ousmane Dembélé,Lamine Yamal,Khvicha Kvaratskhelia,Rodri,Lionel Messi,Michael Olise,Vitinha,Luis Díaz,Kylian Mbappé
+17,Japan,Shuichi Tamura,AFC,Khvicha Kvaratskhelia,Harry Kane,Ousmane Dembélé,Lamine Yamal,Rodri,Lionel Messi,Michael Olise,Nuno Mendes,Erling Haaland,Luis Díaz
+18,Senegal,Salif Diallo,CAF,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Michael Olise,Kylian Mbappé,Lionel Messi,Rodri,Lautaro Martínez,Erling Haaland
+19,Norway,Lars Tjærnås,UEFA,Harry Kane,Khvicha Kvaratskhelia,Lamine Yamal,Erling Haaland,Ousmane Dembélé,Rodri,Vitinha,Michael Olise,Lionel Messi,Luis Díaz
+20,Uruguay,Ricardo Piñeyrúa,CONMEBOL,Harry Kane,Lamine Yamal,Ousmane Dembélé,Khvicha Kvaratskhelia,Rodri,Vitinha,Lionel Messi,Michael Olise,Luis Díaz,Kylian Mbappé
+21,Denmark,Troels Bager Thøgersen,UEFA,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Lionel Messi,Michael Olise,Erling Haaland,Vitinha,Kylian Mbappé
+22,Iran,Siamak Rahmani,AFC,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Vitinha,Erling Haaland,Michael Olise,Lionel Messi,Kylian Mbappé
+23,Austria,Walter Kowatsch-Schwarz,UEFA,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Vitinha,Michael Olise,Lionel Messi,Kylian Mbappé,Luis Díaz
+24,Egypt,Inas Mazhar,CAF,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Lionel Messi,Michael Olise,Luis Díaz,Lautaro Martínez,Kylian Mbappé
+25,Ecuador,Tito Rosales Cox,CONMEBOL,Harry Kane,Lamine Yamal,Ousmane Dembélé,Khvicha Kvaratskhelia,Lionel Messi,Rodri,Vitinha,Michael Olise,Luis Díaz,Kylian Mbappé
+26,Nigeria,Samm Audu,CAF,Harry Kane,Ousmane Dembélé,Lamine Yamal,Khvicha Kvaratskhelia,Rodri,Vitinha,Lionel Messi,Michael Olise,Luis Díaz,Kylian Mbappé
+27,Türkiye,Fatih Doğan,UEFA,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Michael Olise,Vitinha,Lionel Messi,Lautaro Martínez,Luis Díaz
+28,Australia,David Davutovic,AFC,Harry Kane,Lamine Yamal,Ousmane Dembélé,Khvicha Kvaratskhelia,Lionel Messi,Rodri,Vitinha,Michael Olise,Erling Haaland,Luis Díaz
+29,Algeria,Yazid Ouahib,CAF,Ousmane Dembélé,Khvicha Kvaratskhelia,Harry Kane,Lamine Yamal,Vitinha,Rodri,Michael Olise,Lionel Messi,Kylian Mbappé,Luis Díaz
+30,Canada,John Molinaro,CONCACAF,Harry Kane,Ousmane Dembélé,Lamine Yamal,Khvicha Kvaratskhelia,Rodri,Lionel Messi,Vitinha,Michael Olise,Declan Rice,Kylian Mbappé
+31,Ivory Coast,Adam Khalil,CAF,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Vitinha,Michael Olise,Rodri,Kylian Mbappé,Lionel Messi,Nuno Mendes
+32,South Korea,Sungmo Lee,AFC,Harry Kane,Khvicha Kvaratskhelia,Lamine Yamal,Ousmane Dembélé,Rodri,Michael Olise,Lionel Messi,Erling Haaland,Nuno Mendes,Vitinha
+33,Ukraine,Igor Linnyk,UEFA,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Michael Olise,Lamine Yamal,Rodri,Vitinha,Lionel Messi,Erling Haaland,Luis Díaz
+34,Paraguay,Gabriel Cazenave,CONMEBOL,Harry Kane,Lamine Yamal,Ousmane Dembélé,Khvicha Kvaratskhelia,Rodri,Lionel Messi,Vitinha,Kylian Mbappé,Michael Olise,Luis Díaz
+35,Russia,Konstantin Klechev,UEFA,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Michael Olise,Lionel Messi,Erling Haaland,Vitinha,Kylian Mbappé
+36,Poland,Maciej Iwański,UEFA,Harry Kane,Khvicha Kvaratskhelia,Ousmane Dembélé,Lamine Yamal,Rodri,Vitinha,Michael Olise,Lionel Messi,Erling Haaland,Kylian Mbappé
+37,Sweden,Olof Lundh,UEFA,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Michael Olise,Lionel Messi,Vitinha,Erling Haaland,Luis Díaz
+38,Wales,Paul Abbandonato,UEFA,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Lionel Messi,Michael Olise,Kylian Mbappé,Erling Haaland,Luis Díaz
+39,Hungary,György Szöllősi,UEFA,Harry Kane,Khvicha Kvaratskhelia,Ousmane Dembélé,Lamine Yamal,Vitinha,Rodri,Michael Olise,Lionel Messi,Luis Díaz,Nuno Mendes
+40,Serbia,Vladimir Novak,UEFA,Harry Kane,Khvicha Kvaratskhelia,Lamine Yamal,Ousmane Dembélé,Vitinha,Rodri,Michael Olise,Lionel Messi,Luis Díaz,Lautaro Martínez
+41,DR Congo,Jenovic Mbowa,CAF,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Michael Olise,Kylian Mbappé,Rodri,Vitinha,Lionel Messi,Luis Díaz
+42,Scotland,John Greechan,UEFA,Harry Kane,Lamine Yamal,Khvicha Kvaratskhelia,Ousmane Dembélé,Declan Rice,Rodri,Lionel Messi,Michael Olise,Vitinha,Erling Haaland
+43,Cameroon,Emmanuel Gustave Samnick,CAF,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Michael Olise,Vitinha,Lionel Messi,Rodri,Nuno Mendes,Kylian Mbappé
+44,Panama,Campo Elías Estrada,CONCACAF,Harry Kane,Lamine Yamal,Ousmane Dembélé,Khvicha Kvaratskhelia,Rodri,Lionel Messi,Michael Olise,Vitinha,Luis Díaz,Kylian Mbappé
+45,Slovakia,Marcel Merčiak,UEFA,Harry Kane,Khvicha Kvaratskhelia,Ousmane Dembélé,Lamine Yamal,Rodri,Lionel Messi,Michael Olise,Erling Haaland,Kylian Mbappé,Luis Díaz
+46,Greece,Manos Staramopoulos,UEFA,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Michael Olise,Lionel Messi,Erling Haaland,Kylian Mbappé,Luis Díaz
+47,Venezuela,Francisco Blavia,CONMEBOL,Harry Kane,Lamine Yamal,Khvicha Kvaratskhelia,Ousmane Dembélé,Rodri,Lionel Messi,Kylian Mbappé,Lautaro Martínez,Michael Olise,Vitinha
+48,Czechia,Stanislav Hrabě,UEFA,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Michael Olise,Lionel Messi,Vitinha,Nuno Mendes,Luis Díaz
+49,Chile,Danilo Díaz,CONMEBOL,Harry Kane,Lamine Yamal,Khvicha Kvaratskhelia,Ousmane Dembélé,Rodri,Vitinha,Lionel Messi,Michael Olise,Luis Díaz,Erling Haaland
+50,Peru,Roberto Castro,CONMEBOL,Lamine Yamal,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Rodri,Lionel Messi,Vitinha,Michael Olise,Luis Díaz,Lautaro Martínez
+51,Costa Rica,Rodrigo Calvo,CONCACAF,Lamine Yamal,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lionel Messi,Rodri,Michael Olise,Luis Díaz,Lautaro Martínez,Vitinha
+52,Romania,Emanuel Roșu,UEFA,Harry Kane,Khvicha Kvaratskhelia,Ousmane Dembélé,Lamine Yamal,Erling Haaland,Vitinha,Rodri,Michael Olise,Lionel Messi,Lautaro Martínez
+53,Qatar,Majed Al-Khelaifi,AFC,Harry Kane,Ousmane Dembélé,Lamine Yamal,Khvicha Kvaratskhelia,Rodri,Michael Olise,Lionel Messi,Vitinha,Lautaro Martínez,Nuno Mendes
+54,Tunisia,Tarek Gharbi,CAF,Ousmane Dembélé,Harry Kane,Khvicha Kvaratskhelia,Lamine Yamal,Michael Olise,Vitinha,Rodri,Kylian Mbappé,Lionel Messi,Erling Haaland
+55,Finland,Juha Kanerva,UEFA,Khvicha Kvaratskhelia,Harry Kane,Ousmane Dembélé,Lamine Yamal,Rodri,Vitinha,Michael Olise,Lionel Messi,Luis Díaz,Erling Haaland
+56,Republic of Ireland,Philip Quinn,UEFA,Harry Kane,Ousmane Dembélé,Lamine Yamal,Khvicha Kvaratskhelia,Rodri,Lionel Messi,Kylian Mbappé,Michael Olise,Vitinha,Erling Haaland
+57,Bosnia & Herzegovina,Bakir Tiro,UEFA,Harry Kane,Khvicha Kvaratskhelia,Ousmane Dembélé,Lamine Yamal,Erling Haaland,Rodri,Vitinha,Michael Olise,Lionel Messi,Luis Díaz
+58,Ghana,Michael Oti Adjei,CAF,Harry Kane,Ousmane Dembélé,Lamine Yamal,Khvicha Kvaratskhelia,Rodri,Lionel Messi,Michael Olise,Vitinha,Erling Haaland,Luis Díaz
+59,Jamaica,Sean Williams,CONCACAF,Harry Kane,Lamine Yamal,Khvicha Kvaratskhelia,Ousmane Dembélé,Lionel Messi,Rodri,Vitinha,Michael Olise,Luis Díaz,Kylian Mbappé
+60,Iceland,Víðir Sigurðsson,UEFA,Harry Kane,Michael Olise,Khvicha Kvaratskhelia,Lamine Yamal,Ousmane Dembélé,Rodri,Lionel Messi,Vitinha,Erling Haaland,Luis Díaz
+61,Albania,Besnik Dizdari,UEFA,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Vitinha,Michael Olise,Lionel Messi,Erling Haaland,Lautaro Martínez
+62,North Macedonia,Miko Zahariev,UEFA,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Vitinha,Erling Haaland,Michael Olise,Lionel Messi,Luis Díaz
+63,South Africa,Mark Gleeson,CAF,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Lionel Messi,Vitinha,Michael Olise,Luis Díaz,Kylian Mbappé
+64,Iraq,Ali Nouri,AFC,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Michael Olise,Lionel Messi,Vitinha,Lautaro Martínez,Kylian Mbappé
+65,UAE,Mohammed Al-Joker,AFC,Harry Kane,Ousmane Dembélé,Lamine Yamal,Khvicha Kvaratskhelia,Rodri,Vitinha,Michael Olise,Lionel Messi,Luis Díaz,Lautaro Martínez
+66,Cabo Verde,Pedro Clovis,CAF,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Nuno Mendes,Rodri,Lionel Messi,Michael Olise,Vitinha,Kylian Mbappé
+67,Montenegro,Danilo Mitrović,UEFA,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Vitinha,Michael Olise,Erling Haaland,Lionel Messi,Kylian Mbappé
+68,Honduras,Gerson Gómez,CONCACAF,Harry Kane,Lamine Yamal,Khvicha Kvaratskhelia,Lionel Messi,Kylian Mbappé,Ousmane Dembélé,Lautaro Martínez,Michael Olise,Luis Díaz,Rodri
+69,Georgia,Otar Giorgadze,UEFA,Khvicha Kvaratskhelia,Harry Kane,Ousmane Dembélé,Lamine Yamal,Rodri,Vitinha,Michael Olise,Lionel Messi,Erling Haaland,Luis Díaz
+70,Bolivia,Carlos Enrique Rivera,CONMEBOL,Harry Kane,Lamine Yamal,Ousmane Dembélé,Khvicha Kvaratskhelia,Lionel Messi,Rodri,Vitinha,Michael Olise,Luis Díaz,Lautaro Martínez
+71,Guinea,Amadou Diouldé Diallo,CAF,Ousmane Dembélé,Harry Kane,Khvicha Kvaratskhelia,Lamine Yamal,Vitinha,Rodri,Michael Olise,Lionel Messi,Kylian Mbappé,Luis Díaz
+72,Mali,Souleymane Bobo Tounkara,CAF,Ousmane Dembélé,Harry Kane,Lamine Yamal,Khvicha Kvaratskhelia,Michael Olise,Vitinha,Lionel Messi,Nuno Mendes,Rodri,Kylian Mbappé
+73,Gabon,James Golden Pincent,CAF,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Kylian Mbappé,Michael Olise,Lionel Messi,Vitinha,Rodri,Nuno Mendes
+74,New Zealand,Michael Burgess,OFC,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Lionel Messi,Vitinha,Michael Olise,Luis Díaz,Kylian Mbappé
+75,Uzbekistan,Grigoriy Rtveladze,AFC,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Michael Olise,Rodri,Lionel Messi,Vitinha,Erling Haaland,Luis Díaz
+76,Jordan,Tayseer Al-Amiri,AFC,Harry Kane,Ousmane Dembélé,Lamine Yamal,Khvicha Kvaratskhelia,Rodri,Lionel Messi,Michael Olise,Kylian Mbappé,Luis Díaz,Erling Haaland
+77,Oman,Jaber Al-Ajmi,AFC,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Vitinha,Rodri,Michael Olise,Lionel Messi,Lautaro Martínez,Luis Díaz
+78,El Salvador,Claudio Martínez,CONCACAF,Lamine Yamal,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Rodri,Vitinha,Lionel Messi,Michael Olise,Luis Díaz,Lautaro Martínez
+79,Bahrain,Abdullah Ashoor,AFC,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Lionel Messi,Michael Olise,Lautaro Martínez,Luis Díaz,Kylian Mbappé,Vitinha
+80,Curaçao,Kenley Basilio,CONCACAF,Harry Kane,Ousmane Dembélé,Lamine Yamal,Khvicha Kvaratskhelia,Rodri,Vitinha,Michael Olise,Lionel Messi,Luis Díaz,Lautaro Martínez
+81,Syria,Lutfi Al-Awan,AFC,Harry Kane,Ousmane Dembélé,Lamine Yamal,Khvicha Kvaratskhelia,Rodri,Nuno Mendes,Michael Olise,Lionel Messi,Vitinha,Luis Díaz
+82,Zambia,Desmond Katongo,CAF,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Lionel Messi,Michael Olise,Erling Haaland,Luis Díaz,Vitinha
+83,Uganda,Fred Mwambu,CAF,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Lionel Messi,Rodri,Michael Olise,Vitinha,Luis Díaz,Erling Haaland
+84,Haiti,Raymond Jean-Louis,CONCACAF,Ousmane Dembélé,Harry Kane,Lamine Yamal,Khvicha Kvaratskhelia,Vitinha,Michael Olise,Kylian Mbappé,Rodri,Lionel Messi,Luis Díaz
+85,Benin,Hugues Zinsou Zounon,CAF,Ousmane Dembélé,Harry Kane,Khvicha Kvaratskhelia,Lamine Yamal,Michael Olise,Vitinha,Lionel Messi,Rodri,Kylian Mbappé,Luis Díaz
+86,Luxembourg,Christophe Nadin,UEFA,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Michael Olise,Rodri,Vitinha,Lionel Messi,Kylian Mbappé,Luis Díaz
+87,Armenia,Suren Baghdasaryan,UEFA,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Vitinha,Michael Olise,Lionel Messi,Erling Haaland,Lautaro Martínez
+88,Palestine,Bassam Abu Arra,AFC,Harry Kane,Khvicha Kvaratskhelia,Ousmane Dembélé,Lamine Yamal,Vitinha,Rodri,Michael Olise,Lionel Messi,Kylian Mbappé,Luis Díaz
+89,Kyrgyzstan,Kuban Atahanov,AFC,Khvicha Kvaratskhelia,Harry Kane,Ousmane Dembélé,Lamine Yamal,Rodri,Lionel Messi,Michael Olise,Luis Díaz,Vitinha,Erling Haaland
+90,Belarus,Sergey Nikolaev,UEFA,Khvicha Kvaratskhelia,Harry Kane,Ousmane Dembélé,Lamine Yamal,Rodri,Vitinha,Michael Olise,Lionel Messi,Erling Haaland,Luis Díaz
+91,Northern Ireland,Jackie Fullerton,UEFA,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Vitinha,Lionel Messi,Michael Olise,Erling Haaland,Luis Díaz
+92,Israel,Elad Zeevi,UEFA,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Vitinha,Michael Olise,Lionel Messi,Luis Díaz,Kylian Mbappé
+93,China,Luo Ming,AFC,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Erling Haaland,Lionel Messi,Michael Olise,Vitinha,Rodri,Nuno Mendes
+94,Gabon,Charles Mve,CAF,Harry Kane,Ousmane Dembélé,Lamine Yamal,Khvicha Kvaratskhelia,Vitinha,Michael Olise,Rodri,Lionel Messi,Nuno Mendes,Luis Díaz
+95,Slovenia,Andrej Stare,UEFA,Khvicha Kvaratskhelia,Harry Kane,Ousmane Dembélé,Lamine Yamal,Vitinha,Rodri,Michael Olise,Lionel Messi,Erling Haaland,Luis Díaz
+96,Honduras,Kelvin Coello,CONCACAF,Lamine Yamal,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Rodri,Lionel Messi,Michael Olise,Luis Díaz,Kylian Mbappé,Vitinha
+97,Trinidad & Tobago,Lasana Liburd,CONCACAF,Harry Kane,Ousmane Dembélé,Lamine Yamal,Khvicha Kvaratskhelia,Rodri,Lionel Messi,Michael Olise,Kylian Mbappé,Vitinha,Luis Díaz
+98,Bolivia,Juan Pastén,CONMEBOL,Harry Kane,Lamine Yamal,Khvicha Kvaratskhelia,Ousmane Dembélé,Rodri,Vitinha,Lionel Messi,Lautaro Martínez,Michael Olise,Luis Díaz
+99,Mauritania,Lassana Camara,CAF,Harry Kane,Khvicha Kvaratskhelia,Ousmane Dembélé,Vitinha,Lamine Yamal,Michael Olise,Kylian Mbappé,Lionel Messi,Erling Haaland,Luis Díaz
+100,Lebanon,Ibrahim Al-Wazan,AFC,Harry Kane,Ousmane Dembélé,Khvicha Kvaratskhelia,Lamine Yamal,Rodri,Vitinha,Michael Olise,Lionel Messi,Kylian Mbappé,Erling Haaland
